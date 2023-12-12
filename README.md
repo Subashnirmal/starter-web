@@ -12,4 +12,4 @@ This is deployment
 
 ##Conclusion
 
-Git.training
+Git.training check
